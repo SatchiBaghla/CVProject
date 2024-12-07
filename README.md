@@ -1,5 +1,5 @@
 
-# YOLOv8 Medical Imaging
+# Medical Imaging using YOLOv8
 
 YOLO is known for its ability to detect objects in an image in a single pass, making it a highly efficient and accurate object detection algorithm.🎯
 
