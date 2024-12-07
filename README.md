@@ -1,11 +1,11 @@
 
 # Medical Imaging using YOLOv8
 
-YOLO is known for its ability to detect objects in an image in a single pass, making it a highly efficient and accurate object detection algorithm.🎯
+YOLO is known for its ability to detect objects in an image in a single pass, making it a highly efficient and accurate object detection algorithm.
 
 The latest version of YOLO, YOLOv8, released in January 2023 by Ultralytics, has introduced several modifications that have further improved its performance.
 
-In this project, we will focus on three major computer vision tasks that YOLOv8 can be used for: **classification**, **detection**, and **segmentation**. I will explore how YOLOv8 can be applied in the field of medical imaging to detect and classify various anomalies and diseases🧪💊.
+In this project, we will focus on three major computer vision tasks that YOLOv8 can be used for: **classification**, **detection**, and **segmentation**. I will explore how YOLOv8 can be applied in the field of medical imaging to detect and classify various anomalies and diseases.
 
 
 ## Introduction to YOLOv8
