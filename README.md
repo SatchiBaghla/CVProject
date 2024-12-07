@@ -34,11 +34,12 @@ Dataset](https://universe.roboflow.com/tfg-2nmge/yolo-yejbs).
 We used Streamlit to create a user-friendly interface for easy interaction with the YOLOv8 model. Below are screenshots of each part:
 
 ### About page
-
+![image](https://github.com/user-attachments/assets/3bdb1796-30df-4602-9020-97cfa96b022c)
 
 
 
 ### Object Detection
+![image](https://github.com/user-attachments/assets/b461622e-894b-4804-a241-3cab45d7bf09)
 
 
 
@@ -46,7 +47,6 @@ We used Streamlit to create a user-friendly interface for easy interaction with 
 ![image](https://github.com/user-attachments/assets/f056eac5-ded3-4ed1-90ae-0e60e3e8acc2)
 
 
-
-
 ### Segmentation
+![image](https://github.com/user-attachments/assets/2368535d-5109-45ab-b2ac-75cd49030aa3)
 
